@@ -6,8 +6,7 @@ This light breeze theme highlights the current line and the cursor.
 ![](image/breezetheme_view.png)
 
 ## Use RStudio theme, Breeze
-Download the theme file under `RStudio` folder and save it in your PC.
-Then, in RStudio, set this Breeze theme file.
+Download the theme file here, [RStudio-Breeze-theme](RStudio/Breeze.rstheme)   and click on `Download raw file` icon to save it in your PC. Then, in RStudio, set this Breeze theme file.
 
 To do so, go to:
 

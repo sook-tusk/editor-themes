@@ -1,4 +1,4 @@
-/* rs-theme-name: SK */
+/* rs-theme-name: Breeze */
 /* rs-theme-is-dark: FALSE */
 .ace_gutter {
   background: #rgba(255, 255, 255, 0.9);
@@ -50,7 +50,7 @@
   color:#FD971F;
 }
 .ace_keyword.ace_operator {
-  color: rgb(156, 77, 179); 
+  color: rgb(156, 77, 179);
 }
 .ace_comment {
   color: #236e24;
